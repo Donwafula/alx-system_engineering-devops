@@ -1,2 +1,2 @@
 #!/bin/bash
-mv hello /home
+chmode -R 753 hello
