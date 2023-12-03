@@ -1,0 +1,27 @@
+donald@VivoBook:~/Desktop/ALX/alx-system_engineering-devops/0x04-loops_conditions_and_parsing$ ssh-keygen -t rsa
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/donald/.ssh/id_rsa):    
+Created directory '/home/donald/.ssh'.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/donald/.ssh/id_rsa
+Your public key has been saved in /home/donald/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:7+tZ5Id1D0w4DlsPfqGRX7MK8l9iURg/dYkUxpizsY0 donald@VivoBook
+The key's randomart image is:
++---[RSA 3072]----+
+|            ==o +|
+|           =.=+.o|
+|          . #.o=.|
+|           E @.o+|
+|        S...=.B..|
+|         .oo.+oo.|
+|          ..++...|
+|         . oo.o  |
+|         .=. .   |
++----[SHA256]-----+
+
+donald@VivoBook:~/Desktop/ALX/alx-system_engineering-devops/0x04-loops_conditions_and_parsing$ cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCJhs+y/TVwCcUg3uvVPzyo3YiCfrarlLz0LFfAe4++hrqAG+PRKpwzUNbBwGuSbe+f7DjwSF/KZK5GVtjEuGmP9PlDFYvryPFUfMqz9hYsH4ShuUhGAZBNY+4mUqQaxKAVHKYtDqI3owUXvnCd6yIKVPDL9Z9ZGKrg4yLSfvBzfp4kLOVclGMLm5fJjGpEQXWYo5+QX7fMjfMpqueOj5rGi5vdtLX6zVPnP7mDBVla+jZng1KSbqicBnBKrNxCMzAjQx32z6uiVxnhBWkJznrHVdKtgA9kwXMafRXDOYagu0WE/+xU0SgQn3InqePEcHoDUyab3QA0XNzJJCkvRx10aCARMr/g5oDgL8lYZydw1qEOj5r99pKmlhrAuuWC0TEpgI49ClcVE25/0OAPmKfiLcntNPFK3Gwzk0TI/ktyqvHAJ9jgIISQ4RlqN5LwbrdwTQQ2x8ZmqQwBSchSke35+yBpS8F3vPwYKW+qrwKRObPlztrPAXi1thk/cqoksQc= donald@VivoBook
+donald@VivoBook:~/Desktop/ALX/alx-system_engineering-devops/0x04-loops_conditions_and_parsing$ 
+
